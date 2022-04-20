@@ -12,4 +12,4 @@ Other Relevant Things:
 I am sincere and hard working.
 Did  you attempt bonus questions:
 1. Yes
-
+2. Bonus question is attached in word document in this repository.
