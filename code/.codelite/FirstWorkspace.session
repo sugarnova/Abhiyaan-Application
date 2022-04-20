@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\DELL\Documents\FirstWorkspace\FirstWorkspace.workspace">
+  <int Value="3" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\DELL\Documents\FirstWorkspace\FirstWorkspace.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\DELL\Documents\FirstWorkspace\project3\main.cpp" Name="FileName"/>
+      <int Value="2" Name="FirstVisibleLine"/>
+      <int Value="3" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\DELL\Documents\FirstWorkspace\projectsipuc++\main.cpp" Name="FileName"/>
+      <int Value="3" Name="FirstVisibleLine"/>
+      <int Value="5" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\DELL\Documents\FirstWorkspace\problemset5\main.cpp" Name="FileName"/>
+      <int Value="121" Name="FirstVisibleLine"/>
+      <int Value="123" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\DELL\Documents\FirstWorkspace\Project1\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="10" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>
